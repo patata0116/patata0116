@@ -32,4 +32,4 @@ while learning frontend step by step.
 ---
 
 ## 📫 Contact
-- GitHub: @patata
+- GitHub: @patata0116
